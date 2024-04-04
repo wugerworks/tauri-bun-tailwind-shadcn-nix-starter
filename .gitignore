@@ -1,0 +1,7 @@
+node_modules
+build/Release
+.direnv
+.vs
+.idea
+TODO.md
+target

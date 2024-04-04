@@ -1,0 +1,16 @@
+push-new-branches = false
+ship-delete-tracking-branch = true
+sync-upstream = true
+
+[branches]
+main = "main"
+
+[hosting]
+platform = "github"
+origin-hostname = "wugerworks/tauri-bun-tailwind-shadcn-nix-starter"
+
+[sync-strategy]
+feature-branches = "merge"
+perennial-branches = "rebase"
+
+
